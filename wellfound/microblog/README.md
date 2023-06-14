@@ -1,5 +1,6 @@
 # Welcome to Wellfound's microblog assessment!
 
+![Proof of completion](https://github.com/GRumbea/microblog/blob/29b5ef76b51049b226eab2317690def80452ff76/wellfound/microblog/Screenshot%202023-06-13%20191433.png)
 ## Goal
 Your task is to update the home page of this Flask app to display all of the rows in the blog posts table instead of just the static single row.
 
